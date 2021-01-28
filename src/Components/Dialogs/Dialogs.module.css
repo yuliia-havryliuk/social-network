@@ -1,0 +1,20 @@
+.dialogs {
+  display: grid;
+  grid-template-columns: 2fr 10fr;
+  padding: 10px;
+}
+.dialogsItems{
+}
+.dialogsItems a {
+  color: firebrick;
+  text-decoration: none;
+}
+.dialogsMessages {
+  color: gold;
+  background-color: darkorange;
+  border-radius: 5px;
+  padding-left: 10px;
+}
+.dialogsItems img{
+  width: 40px;
+}

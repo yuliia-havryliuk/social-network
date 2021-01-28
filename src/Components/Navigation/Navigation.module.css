@@ -1,0 +1,15 @@
+.nav{
+    grid-area: navi;
+    background-color: aliceblue;
+    border: rgba(0,13,89,0.97) 1px solid ;
+    border-radius: 5px;
+    padding: 20px;
+    padding-top: 10px;
+}
+.item a{
+    color: rgba(0,13,89,0.97);
+    text-decoration: none;
+}
+a.activeLink{
+    color: gold;
+}
