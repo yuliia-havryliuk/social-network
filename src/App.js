@@ -7,9 +7,8 @@ import News from "./Components/News/News";
 import Settings from "./Components/Settings/Settings";
 import Music from "./Components/Music/Music";
 import DialogsContainer from "./Components/Dialogs/DialogsContainer";
-debugger;
+
 const App = (props) => {
-    debugger;
     return (
       <div className="app-wrapper">
         <Header />
